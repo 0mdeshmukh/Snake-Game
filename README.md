@@ -1,1 +1,3 @@
 # Snake-s-Game
+
+The Snake Game project is a simple 2D game built using Pygame. In this game, the player controls a snake that moves around the screen, consuming food to grow longer while avoiding collisions with its own body and the screen boundaries. The game tracks the player's score, which increases each time the snake eats food. The game features a restart option after a game over, with background music and sound effects during gameplay. The project demonstrates basic game mechanics such as movement, collision detection, and user input handling.
